@@ -2,10 +2,9 @@
 -[x] Argument parsing
 -[x] Execute process in dir
 -[x] Work in subdir
--[ ] Work in dir specified by file
+-[x] Match globbing
 -[ ] Exclude globbing
--[ ] Multiprocess
 -[ ] Change dir heading
--[ ] Distribution
 -[ ] Colourize output
--[ ]
+-[ ] Subdir only good for 1 level
+-[ ] Distribution
