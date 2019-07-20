@@ -1,0 +1,11 @@
+-[x] Walk the dir tree
+-[x] Argument parsing
+-[x] Execute process in dir
+-[x] Work in subdir
+-[ ] Work in dir specified by file
+-[ ] Exclude globbing
+-[ ] Multiprocess
+-[ ] Change dir heading
+-[ ] Distribution
+-[ ] Colourize output
+-[ ]
